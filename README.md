@@ -9,6 +9,13 @@ Building on Tyslin follows familiar development patterns and programming languag
 
 
 
+
+For more information please contact 
+
+info@reactivespace.com
+
+
+
 [![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/TYSLINIO/TYSLINio)
 
 Welcome to the TYSLINIO source code repository! This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
