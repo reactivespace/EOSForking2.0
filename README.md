@@ -7,9 +7,9 @@ Are you looking forward to launch your own crypto startup or your very own Block
 
 For more information contact us now at 
 
-# Email = info@reactivespace.com, hassan@reactivespace.com
-# Skype = hassan.abbas729
-# Telegram = @ha_tyslin
+# Email: info@reactivespace.com, hassan@reactivespace.com
+# Skype: hassan.abbas729
+# Telegram: @ha_tyslin
 
 
 [![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/TYSLINIO/TYSLINio)
@@ -30,9 +30,6 @@ Some of the groundbreaking features of TYSLINIO include:
 . Support for Biometric Hardware Secured Keys (e.g. Apple Secure Enclave)
 . Designed for Parallel Execution of Context Free Validation Logic
 . Designed for Inter Blockchain Communication
-
-
-
 
 # Server Requirements 
 
