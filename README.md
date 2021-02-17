@@ -1,15 +1,23 @@
 
-# TYSLINIO - The Most Powerful Infrastructure for Decentralized Applications
+# TYSLINIO - EOS FORK 
 
-Tyslin is a blockchain forked of EOS platform designed for the real world and recognized as the most performant blockchain platform. It is built for public or private, and permissioned or permissionless blockchain infrastructure. Tyslin is also adaptable to suit a wide range of business needs across industries with rich role-based security permissions and industry-leading throughput. Moreover, it’s designed for secure application processing.
-Building on Tyslin follows familiar development patterns and programming languages used by existing non-blockchain applications. This means  developers can create a seamless user experience with development tools they already know and love.
+TYSLINIO is a fork of the EOSIO  and hence a new, independent blockchain. Whatever your requirements, we at Reactive Space can create a EOSIO similar blockchain network that is optimised to suit the specific needs of your network, allowing you to have complete control of your independent blockchain, and enabling the capability for block producers to exist on your new chain.
+Are you looking forward to launch your own crypto start up or your very own Blockchain network? We can fork  existing major coins or custom blockchain development for you and help you leverage unmatched transaction speeds compared to other Blockchains.
+We can also help you list your coin on all major Exchanges.
 
 
 
+# OUR Team Reactive Space
 
-For more information please contact 
+We at Reactivespace are experts in forking of any kind of Blockchain and Coins 
+We also provide white label solution for  Crypto Exchange  Whitelabel solutions.
+We have already forked Steemit,EOS ,BitGreen and have expertise to fork any kind of Blockchain,Coin,Crypto.EOS forked blockchains seamlessly integrate with all major Exchanges globally, so this is the best time if you want to launch your own cryptocurrency. For more information  contact us now at 
 
-# info@reactivespace.com
+# Email = info@reactivespace.com
+# Telegram = @ha_tyslin
+# Skype = harry9849
+# Skype = hassan.abbas729
+
 
 
 [![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/TYSLINIO/TYSLINio)
