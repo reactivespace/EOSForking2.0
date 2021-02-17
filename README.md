@@ -1,5 +1,5 @@
 
-# TYSLINIO - EOS FORK 
+# TYSLINIO - EOSIO FORK 
 
 TYSLINIO is a fork of the EOSIO  and hence a new, independent blockchain. Whatever your requirements, we at Reactive Space can create a EOSIO similar blockchain network that is optimised to suit the specific needs of your network, allowing you to have complete control of your independent blockchain, and enabling the capability for block producers to exist on your new chain.
 Are you looking forward to launch your own crypto start up or your very own Blockchain network? We can fork  existing major coins or custom blockchain development for you and help you leverage unmatched transaction speeds compared to other Blockchains.
