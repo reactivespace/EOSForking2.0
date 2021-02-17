@@ -1,20 +1,19 @@
-
 # TYSLINIO - EOSIO FORK 
 
-TYSLINIO is a fork of the EOSIO  and hence a new, independent blockchain. Whatever your requirements, we at Reactive Space can create a EOSIO similar blockchain network that is optimised to suit the specific needs of your network, allowing you to have complete control of your independent blockchain, and enabling the capability for block producers to exist on your new chain.
+Welcome to the TYSLINIO source code repository! 
+
+TYSLINIO is a fork of the EOSIO and hence a new, independent blockchain. Whatever your requirements, we at Reactive Space can create a EOSIO similar blockchain network that is optimised to suit the specific needs of your network, allowing you to have complete control of your independent blockchain, and enabling the capability for block producers to exist on your new chain.
 
 Are you looking forward to launch your own crypto startup or your very own Blockchain network? We can fork existing major coins or custom blockchain development for you and help you leverage unmatched transaction speeds compared to other Blockchains. Furthermore, we can also create whitelabel solution Crypto exchange and help you list your coin on all major Exchanges.
 
-For more information contact us now at 
+# For more information contact us now at 
 
-# Email: info@reactivespace.com, hassan@reactivespace.com
-# Skype: hassan.abbas729
-# Telegram: @ha_tyslin
+Email: info@reactivespace.com, hassan@reactivespace.com
+Skype: hassan.abbas729
+Telegram: @ha_tyslin
 
 
 [![Build status](https://badge.buildkite.com/370fe5c79410f7d695e4e34c500b4e86e3ac021c6b1f739e20.svg?branch=master)](https://buildkite.com/TYSLINIO/TYSLINio)
-
-Welcome to the TYSLINIO source code repository! This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
 
 Some of the groundbreaking features of TYSLINIO include:
 
